@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/mazhelez-org/AL-Go/bf247f662e430b260701b13b6953849e0b2448a0/Actions/.Modules/settings.schema.json",
   "githubRunner": "windows-latest",
   "templateUrl": "https://github.com/mazhelez-org/tmp3N4tJJ-PTE@main",
   "useCompilerFolder": true,
@@ -17,12 +18,12 @@
     }
   ],
   "MicrosoftTelemetryConnectionString": "",
-  "$schema": "https://raw.githubusercontent.com/mazhelez-org/AL-Go/bf247f662e430b260701b13b6953849e0b2448a0/Actions/.Modules/settings.schema.json",
   "useApproximateVersion": true,
   "UseProjectDependencies": true,
   "incrementalBuilds": {
     "onPush": true
   },
   "type": "PTE",
-  "doNotPublishApps": true
+  "doNotPublishApps": true,
+  "templateSha": "64c6f88313a3c4ae31d19baaa9ea072429222651"
 }
